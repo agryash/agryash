@@ -3,7 +3,6 @@ Reach out to me at <a href="mailto:yashagrawalboston@gmail.com">yashagrawalbosto
 
 ### About Me 🥸
 
-- 👔 Billing @ Live Building Systems
 - 👩🏻‍💻 SWE Intern @ Circle, Bracebridge Capital 
 - 🎓 Master's Degree @ Northeastern University
 - ☁️ Interested in Full Stack Development and Cloud Computing
@@ -12,7 +11,6 @@ Reach out to me at <a href="mailto:yashagrawalboston@gmail.com">yashagrawalbosto
 
 ### Working on: 🚀
 
-- Building Live Building Systems's Billing Dashboard
 - Creating a listing and bidding engine over at OneCommunityGlobal
 - Developing AI based Patenting Software
 - Solving more Leetcode problems
